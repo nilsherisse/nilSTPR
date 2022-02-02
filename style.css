@@ -412,53 +412,6 @@ span.f-logo span i {
     font-size: 35px;
 }
 
-.single-skill h5 {
-    font-size: 14px;
-    margin-top: 20px;
-    color: #8a8a8a;
-}
-
-.single-work img {
-    display: block;
-    width: 100%;
-    transition: 1s;
-}
-
-
-#work-area {
-    padding: 60px 0 70px;
-}
-
-.work-title {
-    margin-bottom: 50px;
-}
-
-.single-work {
-    position: relative;
-    overflow: hidden;
-    margin: 3px;
-}
-
-.top-content {
-    margin-bottom: 30px;
-}
-
-.top-content span {
-    width: 30px;
-    height: 30px;
-    background: #e4e4e4;
-    display: inline-block;
-    border-radius: 5px;
-    margin: 0 -1px;
-    position: relative;
-    z-index: 1;
-    transition: .3s;
-}
-
-.top-content span i {
-    position: relative;
-    display: inline-block;
-}
 
 .bottom-content h5 {
     font-size: 16px;
