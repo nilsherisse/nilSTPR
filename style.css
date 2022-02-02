@@ -393,3 +393,119 @@ span.f-logo span i {
     margin-left: 15px;
 }
 
+.single-skill {
+    text-align: center;
+}
+
+.relative {
+    position: relative;
+    text-align: center;
+}
+
+.relative strong {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #EBEBEB;
+    font-size: 35px;
+}
+
+.single-skill h5 {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #8a8a8a;
+}
+
+.single-work img {
+    display: block;
+    width: 100%;
+    transition: 1s;
+}
+
+
+#work-area {
+    padding: 60px 0 70px;
+}
+
+.work-title {
+    margin-bottom: 50px;
+}
+
+.single-work {
+    position: relative;
+    overflow: hidden;
+    margin: 3px;
+}
+
+.top-content {
+    margin-bottom: 30px;
+}
+
+.top-content span {
+    width: 30px;
+    height: 30px;
+    background: #e4e4e4;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 0 -1px;
+    position: relative;
+    z-index: 1;
+    transition: .3s;
+}
+
+.top-content span i {
+    position: relative;
+    display: inline-block;
+}
+
+.bottom-content h5 {
+    font-size: 16px;
+    color: #e4e4e4;
+    margin-bottom: 15px;
+}
+
+.bottom-content span {
+    display: block;
+    font-size: 14px;
+    color: #e4e4e4;
+}
+
+span.by-lover i {
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+a.view-btn {
+    display: block;
+    color: aliceblue;
+    background: rgb(0, 169, 157);
+    padding: 10px 0;
+    border-radius: 5px;
+    transition: .5s;
+}
+
+.view {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#company-area {
+    padding: 50px 0;
+    background: #383838
+}
+
+.company-title {
+    margin-bottom: 50px;
+}
+
+.company-work {
+    text-align: center;
+    overflow: hidden;
+}
+
+
+.contact-buttons {
+    text-align: center;
+}
